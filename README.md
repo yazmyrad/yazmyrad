@@ -38,7 +38,7 @@ CS graduate of St Petersburg State university.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmyrad&layout=compact&langs_count=8&card_width=300" />
 </a>
 <a href="https://leetcard.jacoblin.cool/JacobLinCool" style="flex:1;">
-  <img height=200 align="center" src="https://leetcode.com/windoygrincom46?theme=transparent" />
+ [![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/yazmyrad?theme=transparent)
 </a>
 </div>
 </div>
