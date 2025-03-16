@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## ![link](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjBydm55N2U4ZXJueDB4bGhtcGZnMnY4MHY4YmtseHBqYzJ4aHY1ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GqrXREoiSaTcUdKG0C/giphy.gif)
+## ![Custom Banner](SVG/banner.svg)
 CS graduate of St Petersburg State university. 
 
 Skills: Python / Django / SQL / REACT / JS / HTML / CSS
