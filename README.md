@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 ## [![Custom Banner](SVG/banner.svg)](https://github.com/Akshay090/svg-banners)
 CS graduate of St Petersburg State university. 
-<div style="display:flex; align-items:center;">
-  <div style="flex:1;">
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width=100 height=100/> 
+<div style="display: flex; align-items: center; gap: 10px;">
+  <div>
+    <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" height="100" />
   </div>
-<div style="flex:1; text-align:center;">
-<h2> &nbsp; Languages and tools I use</h2>
-</div>
+  <div>
+    <h2>&nbsp; Languages and tools I use</h2>
+  </div>
 </div>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="js" width="45" height="45"/>
@@ -41,7 +41,7 @@ CS graduate of St Petersburg State university.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmyrad&layout=compact&langs_count=8" />
 </a>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/windoygrincom46?width=700?theme=transparent)
+![Leetcode Stats](https://leetcard.jacoblin.cool/windoygrincom46?width=600?theme=transparent)
 
 ![Snake animation](https://github.com/yazmyrad/yazmyrad/blob/output/github-contribution-grid-snake.svg)
 
