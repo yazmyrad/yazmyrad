@@ -30,16 +30,17 @@ CS graduate of St Petersburg State university.
 <div style="display: flex; flex-direction:column; align-items: center; gap: 5px;">
   <div style="display:flex; flex:1">
 <a href="https://github.com/anuraghazra/github-readme-stats" >
-  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=yazmyrad&hide=prs&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yazmyrad&hide=prs&show_icons=true&theme=tokyonight" />
 </a>
   </div>
   <div style="display:flex; flex:1;">
 <a href="https://github.com/anuraghazra/convoychat" style="flex:1;">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmyrad&layout=compact&langs_count=8&card_width=300" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmyrad&layout=compact&langs_count=8" />
 </a>
 </div>
 </div>
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/yazmyrad?theme=transparent)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/windoygrincom46?theme=transparent)
+
 ![Snake animation](https://github.com/yazmyrad/yazmyrad/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=yazmyrad)
