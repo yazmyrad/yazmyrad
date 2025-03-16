@@ -36,6 +36,8 @@ CS graduate of St Petersburg State university.
 </a>
 </div>
 
+![Snake animation](https://github.com/yazmyrad/yazmyrad/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
