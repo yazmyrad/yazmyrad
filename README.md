@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 ## [![Custom Banner](SVG/banner.svg)](https://github.com/Akshay090/svg-banners)
 CS graduate of St Petersburg State university. 
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<h2> <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width=100 height=100/> &nbsp;Languages and tools I use</h2>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="js" width="45" height="45"/>
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" alt="python" width="45" height="45"/>
@@ -29,7 +29,7 @@ CS graduate of St Petersburg State university.
 </p>
 <div style="display: flex; align-items: center; gap: 5px;">
 <a href="https://github.com/anuraghazra/github-readme-stats" style="flex:1;">
-  <img height=200 width=320 align="center" src="https://github-readme-stats.vercel.app/api?username=yazmyrad&hide=prs&show_icons=true&theme=tokyonight" />
+  <img height=200 width=500 align="center" src="https://github-readme-stats.vercel.app/api?username=yazmyrad&hide=prs&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat" style="flex:1;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmyrad&layout=compact&langs_count=8&card_width=300" />
@@ -38,6 +38,10 @@ CS graduate of St Petersburg State university.
 
 ![Snake animation](https://github.com/yazmyrad/yazmyrad/blob/output/github-contribution-grid-snake.svg)
 
+[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/windoygrincom46?theme=transparent)
+
 ![](https://komarev.com/ghpvc/?username=yazmyrad)
 
-
+<a href="">
+  <img width=50 height=50 src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"/>
+</a>
