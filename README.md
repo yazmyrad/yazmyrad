@@ -35,12 +35,12 @@ CS graduate of St Petersburg State university.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmyrad&layout=compact&langs_count=8" />
 </a>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)](https://leetcode.com/windoygrincom46?theme=transparent)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/windoygrincom46)](https://leetcode.com/windoygrincom46?width=500?theme=transparent)
 
 ![Snake animation](https://github.com/yazmyrad/yazmyrad/blob/output/github-contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=yazmyrad)
 
-<a href="">
+<a href="#">
   <img width=50 height=50 src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png"/>
 </a>
