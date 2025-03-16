@@ -29,7 +29,7 @@ CS graduate of St Petersburg State university.
 </p>
 <div style="display: flex; align-items: center; gap: 5px;">
 <a href="https://github.com/anuraghazra/github-readme-stats" style="flex:1;">
-  <img height=200 width=400 align="center" src="https://github-readme-stats.vercel.app/api?username=yazmyrad&hide=prs&show_icons=true&theme=tokyonight" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=yazmyrad&hide=prs&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat" style="flex:1;">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yazmyrad&layout=compact&langs_count=8&card_width=320" />
@@ -38,6 +38,6 @@ CS graduate of St Petersburg State university.
 
 ![Snake animation](https://github.com/yazmyrad/yazmyrad/blob/output/github-contribution-grid-snake.svg)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yazmyrad&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=yazmyrad)
 
 
